@@ -28,8 +28,8 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # iptv
-DOMAIN-SUFFIX,sc.rrs.169ol.com
-DOMAIN-SUFFIX,ottrrs.hl.chinamobile.com
+DOMAIN-KEYWORD,169ol
+DOMAIN-KEYWORD,chinamobile
 
 # 360
 DOMAIN-SUFFIX,360.com
