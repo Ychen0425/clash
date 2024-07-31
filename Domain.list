@@ -7,10 +7,10 @@
 
 # 媒体元数据
 
-- DOMAIN-SUFFIX,api.themoviedb.org,Proxy
-- DOMAIN-SUFFIX,api.tmdb.org,Proxy
-- DOMAIN-SUFFIX,themoviedb.org,Proxy
-- DOMAIN-SUFFIX,webservice.fanart.tv,Proxy
+
+- DOMAIN-KEYWORD,tmdb,Proxy
+- DOMAIN-KEYWORD,themoviedb,Proxy
+- DOMAIN-KEYWORD,fanart,Proxy
 
 
 
