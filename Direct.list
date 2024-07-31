@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,0727
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,192.168.188.1/24,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -25,7 +26,7 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-# iptv
+# iptv 域名关键字匹配
 DOMAIN-KEYWORD,169ol
 DOMAIN-KEYWORD,chinamobile
 
