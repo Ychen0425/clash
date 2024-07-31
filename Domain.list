@@ -1,0 +1,16 @@
+# 补充代理列表
+
+##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
+##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
+##- DOMAIN,google.com,Proxy #匹配域名(交由Proxy代理服务器组)
+
+
+# 媒体元数据
+
+- DOMAIN-SUFFIX,api.themoviedb.org,Proxy
+- DOMAIN-SUFFIX,api.tmdb.org,Proxy
+- DOMAIN-SUFFIX,themoviedb.org,Proxy
+- DOMAIN-SUFFIX,webservice.fanart.tv,Proxy
+
+
+
