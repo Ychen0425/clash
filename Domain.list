@@ -11,6 +11,5 @@
 - DOMAIN-KEYWORD,tmdb,Proxy
 - DOMAIN-KEYWORD,themoviedb,Proxy
 - DOMAIN-KEYWORD,fanart,Proxy
-
-
-
+- DOMAIN-KEYWORD,fanart,Proxy
+- DOMAIN-SUFFIX,byr.pt,Proxy
