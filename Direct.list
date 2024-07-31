@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,sc.rrs.169ol
-DOMAIN-KEYWORD,chinamobile
 DOMAIN-KEYWORD,0727
 
 # IP段匹配
