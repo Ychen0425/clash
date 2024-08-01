@@ -9,6 +9,7 @@
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,fanart
+DOMAIN-KEYWORD,coo
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
