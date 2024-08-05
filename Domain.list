@@ -14,7 +14,8 @@ DOMAIN-KEYWORD,fanart
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,fsm.name
-DOMAIN-SUFFIX,web.coo.wiki
+DOMAIN-SUFFIX,webservice.fanart.tv
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
